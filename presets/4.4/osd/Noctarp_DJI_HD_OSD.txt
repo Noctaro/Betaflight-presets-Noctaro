@@ -1,0 +1,27 @@
+#$ TITLE: Noctaro - DJI HD OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: DJI, HD, HDOSD
+#$ AUTHOR: Noctaro (Georg O.)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Noctaro HD OSD Settings
+#$ DESCRIPTION: -----------
+
+
+set osd_warn_bitmask = 57343
+set osd_rssi_dbm_alarm = -95
+set osd_link_quality_pos = 3117
+set osd_rssi_dbm_pos = 3149
+set osd_tim_2_pos = 2562
+set osd_anti_gravity_pos = 2370
+set osd_avg_cell_voltage_pos = 2594
+set osd_flip_arrow_pos = 2106
+set osd_sys_vtx_temp_pos = 1133
+set osd_stat_bitmask = 11175020
+set osd_displayport_device = MSP
+set osd_canvas_width = 60
+set osd_canvas_height = 22
+set vcd_video_system = HD
