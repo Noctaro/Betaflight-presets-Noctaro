@@ -6,8 +6,6 @@
 #$ AUTHOR: Betaflight
 #$ DESCRIPTION: Resets the OSD values back to Betaflight 4.3 defaults
 
-set yaw_deadband = 2
-set pid_process_denom = 2
 set osd_warn_bitmask = 57343
 set osd_rssi_dbm_alarm = -95
 set osd_link_quality_pos = 3117
